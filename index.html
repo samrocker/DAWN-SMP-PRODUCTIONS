@@ -39,7 +39,7 @@
             <div class="animate__animated animate__bounceIn animate__delay-1s">
                 <a href="https://discord.gg/wcMrEhyhnn"><button class="btn1"><i class="fab fa-discord"></i> SMP DC server</button></a>
                 <a href="https://samrocker.github.io/videos/"><button class="btn2"><i class="fas fa-shopping-basket"></i> videos</button></a>
-                <a href="https://samrocker.github.io/dawn-smp"><button class="btn3"><i class="fas fa-poll"></i> interview form</button></a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdw9BULvlSMes2ZJ3mYjmDEsg4oG7qpV4_89WRteGrbJceUeQ/viewform?usp=sf_link"><button class="btn3"><i class="fas fa-poll"></i> interview form</button></a>
             </div>
         </div>
     </div>
